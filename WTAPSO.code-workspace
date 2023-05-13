@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Python37\\Lib\\site-packages"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\bscov\\AppData\\Local\\Programs\\Python\\Python36\\python.exe"
+	}
+}
